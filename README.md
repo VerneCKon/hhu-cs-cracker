@@ -6,7 +6,15 @@
 
 受[浙江大学相关项目](https://github.com/QSCTech/zju-icicles)、[清华大学相关项目](https://github.com/PKUanonym/REKCARC-TSC-UHT)启发，创立了本项目。
 
+由于本仓库未启用`git-lfs`，因此请不要上传单个超过100M的文件，否则commit无效。
+
+若要下载单个文件夹，复制该文件夹的网址，粘贴入[DownGit](https://minhaskamal.github.io/DownGit/#/home)中，选择download即可。
+
 ## 贡献
+
+**欢迎贡献！**
+
+**欢迎贡献！**
 
 **欢迎贡献！**
 
