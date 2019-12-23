@@ -4,7 +4,7 @@
 [![](https://img.shields.io/github/stars/Smlight/hhu-cs-cracker.svg?style=flat)](https://github.com/Smlight/hhu-cs-cracker/stargazers)
 [![](https://img.shields.io/github/forks/Smlight/hhu-cs-cracker.svg?style=flat)](https://github.com/Smlight/hhu-cs-cracker/network/members)
 
-受[清华大学相关项目](https://github.com/PKUanonym/REKCARC-TSC-UHT)启发，创立了本项目。
+受[浙江大学相关项目](https://github.com/QSCTech/zju-icicles)、[清华大学相关项目](https://github.com/PKUanonym/REKCARC-TSC-UHT)启发，创立了本项目。
 
 ## 贡献
 
